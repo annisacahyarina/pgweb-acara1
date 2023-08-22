@@ -14,4 +14,3 @@ Hobi:
 Avatar:
 
 ![Avatar](image/woman.png)
-got
